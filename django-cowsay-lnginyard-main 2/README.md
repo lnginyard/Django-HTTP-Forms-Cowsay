@@ -26,8 +26,5 @@ Write a Django server that:
 *   backs up a copy of the text submitted by the user
 *   has a page at the endpoint /history that displays the 10 most recent strings submitted
 
-#### **Submission**
 
-Submit a link to your repo
 
-<pre>https://github.com/kenzie-se-q4/django-cowsay-&ltgithub_username&gt</pre>
